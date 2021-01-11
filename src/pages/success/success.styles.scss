@@ -1,0 +1,9 @@
+.success-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .image {
+    background-image: url('../../assets/success1.webp');
+  }
+}
